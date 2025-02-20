@@ -1,0 +1,36 @@
+James Serengia | Personal profile [page title]
+
+James Serengia - Profile.
+Hi! My name is James Serengia, a web enthusiast.
+
+Hobbies
+==========
+Cooking
+Teaching
+Badminton
+Traveling & Going on Safaris
+
+My favorite Recipe
+==================
+My favorite recipe is Chocolate Chip Cookies
+Here is How to make them:
+
+Ingredients
+======
+1 cup butter
+2 cups flour
+1 cup sugar
+1 cup chocolate chips
+    
+Steps
+========
+Preheat the oven to 180°C (350°F).
+Mix all ingredients in a bowl.
+Scoop dough onto a baking sheet.
+Bake for 12-15 minutes.
+
+Contact info
+==============  
+<p>County: Nairobi, Kenya</p>
+<a href="#">Visit location</a>
+    
