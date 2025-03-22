@@ -1,6 +1,7 @@
 h1 {
   font-weight: 800;
   color: #00a100;
+  border: 2px solid red;
   font-size: 40px;
 }
 
